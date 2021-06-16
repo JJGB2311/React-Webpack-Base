@@ -1,2 +1,1 @@
-# React-Webpack-Base
-Configuracion Básica de React con Webpak 
+# curso-webpack-react
